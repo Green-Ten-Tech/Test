@@ -1,0 +1,831 @@
+[1126/173308.529:ERROR:component_installer.cc(349)] Failed to read manifest or verify installation for Widevine Content Decryption Module (C:\Users\JSGro\AppData\Local\CEF\User Data\WidevineCdm\4.10.2391.0).: The system cannot find the path specified. (0x3)
+[1126/173309.976:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/198a304b-e535-4aa0-8c1d-1340358293cd\" skips prefix match because of non-special URL scheme"
+[1126/173309.977:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/45b029e1-6777-48eb-a7d5-566202b67900\" skips prefix match because of non-special URL scheme"
+[1126/173309.982:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173309.988:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173310.832:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173310.890:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173310.945:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173311.033:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/173311.906:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173311.909:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173311.910:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173311.912:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173312.025:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173312.029:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173312.030:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173312.030:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173313.224:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/173313.471:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/e5c0a493-ffce-451c-8c10-5cfdbb4a6ca0\" skips prefix match because of non-special URL scheme"
+[1126/173313.472:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/1d2fa34b-09a0-4628-bc77-3cc088c8ddd3\" skips prefix match because of non-special URL scheme"
+[1126/173313.477:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173313.484:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173313.566:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173313.777:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173316.186:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/2d7b97fd-3063-49fc-859b-0321c03eda66\" skips prefix match because of non-special URL scheme"
+[1126/173316.187:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b25d21e0-3060-4b64-ac98-cf17a603d624\" skips prefix match because of non-special URL scheme"
+[1126/173316.192:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173316.200:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173316.280:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173316.416:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/173316.523:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173319.128:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/173526.122:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1126/173535.408:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/ab09a0fa-13ea-4a46-9c2b-6c47ba00a0f1\" skips prefix match because of non-special URL scheme"
+[1126/173535.409:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/181ca5ea-b255-41b6-b40b-41db5badfa6b\" skips prefix match because of non-special URL scheme"
+[1126/173535.415:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173535.425:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173535.992:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173536.024:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173536.036:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173536.105:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/173536.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173536.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173536.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173536.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/173536.437:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173536.437:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173536.437:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173536.437:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/173538.233:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/173641.435:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1126/173709.027:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1126/173730.783:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/46b68f18-fd74-42df-be22-2657b63f0e6f\" skips prefix match because of non-special URL scheme"
+[1126/173730.784:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/14e3c3b4-8894-4a44-be6e-7aed4820f562\" skips prefix match because of non-special URL scheme"
+[1126/173730.790:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173730.797:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173730.880:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173731.076:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173733.745:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/173734.265:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1126/173742.003:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/5bc46622-9252-437c-ad72-1287c7248697\" skips prefix match because of non-special URL scheme"
+[1126/173742.004:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/26fa9878-5f6a-486c-b278-f0cfdd6d9fc9\" skips prefix match because of non-special URL scheme"
+[1126/173742.008:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/173742.013:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/173742.095:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/173742.330:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/173744.944:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/174510.263:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/f0391a6a-303e-4ba8-851b-65b770427562\" skips prefix match because of non-special URL scheme"
+[1126/174510.265:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/c6a0020f-71e3-4212-b062-a843a4fa841b\" skips prefix match because of non-special URL scheme"
+[1126/174510.269:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/174510.276:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/174510.630:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/174510.711:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174510.751:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/174510.828:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/174511.074:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174511.074:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174511.074:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174511.074:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174511.156:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174511.156:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174511.156:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174511.157:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174512.982:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/174524.004:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/9a36f9d6-9c6d-4a1b-9006-e1bda2cf9d7a\" skips prefix match because of non-special URL scheme"
+[1126/174524.005:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/663753c4-5982-4ad4-8de2-ee694a305707\" skips prefix match because of non-special URL scheme"
+[1126/174524.012:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/174524.020:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/174524.104:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/174524.307:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/174525.493:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/a7038f61-78ef-487a-8ce6-7a12e8199622\" skips prefix match because of non-special URL scheme"
+[1126/174525.494:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/1255cb03-f856-4568-bb57-f151cbfb67c8\" skips prefix match because of non-special URL scheme"
+[1126/174525.498:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/174525.507:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/174525.558:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/174525.689:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/174548.780:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/4640fc38-bf11-44c4-af47-ae3e6c71cbe4\" skips prefix match because of non-special URL scheme"
+[1126/174548.781:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/ff11c093-7fb5-43ed-a403-50e7d1a5c3f4\" skips prefix match because of non-special URL scheme"
+[1126/174548.785:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/174548.793:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/174549.098:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/174549.166:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174549.206:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/174549.294:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/174549.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174549.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174549.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174549.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/174549.573:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174549.573:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174549.573:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174549.573:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/174551.513:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www4.bing.com/?form=DCDN (0)
+[1127/132728.901:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/ce3c62e9-b84b-417d-8f1d-32b33d10a266\" skips prefix match because of non-special URL scheme"
+[1127/132728.903:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/4588cb5e-4fee-4ff4-a4f9-1e05e5bbae0a\" skips prefix match because of non-special URL scheme"
+[1127/132728.909:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1127/132728.915:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1127/132729.421:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1127/132729.572:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/132729.607:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/132729.715:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[1127/132730.656:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/132730.656:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/132730.656:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/132730.656:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/132730.743:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836488 [5,8]
+[1127/132730.743:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836488 [5,8]
+[1127/132730.744:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836488 [5,8]
+[1127/132730.744:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836488 [5,8]
+[1127/132731.646:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=9ECDA399EB5F4B27B724D709F4EAC402 (0)
+[1127/132736.426:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/171e4fb2-f1d1-40e1-8d07-af1a5935e5ea\" skips prefix match because of non-special URL scheme"
+[1127/132736.427:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/189e9137-297f-4be7-94d3-b6b7731afee4\" skips prefix match because of non-special URL scheme"
+[1127/132736.434:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1127/132736.445:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1127/132736.520:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1127/132736.792:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/132739.366:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=9ECDA399EB5F4B27B724D709F4EAC402 (0)
+[1127/132815.292:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1127/132920.497:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/ae51f4cf-1221-4f2d-8f4e-5d2be4391e39\" skips prefix match because of non-special URL scheme"
+[1127/132920.498:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/f0add044-955e-4aa2-9ba7-08529dc250a1\" skips prefix match because of non-special URL scheme"
+[1127/132920.503:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1127/132920.509:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1127/132920.569:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1127/132920.652:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/132921.423:INFO:CONSOLE(1)] "Sat Nov 27 2021 13:29:21 GMT-0500 (Eastern Standard Time): 1638037761420 {"id":22012,"severity":0,"pb":{"build":"20211124.5","appType":"bingHomepage","pcsVersion":"20211117.18_master","pcsEnv":"prod","buildAlias":"latest","customMessage":"ConfigRef: binghomepage/appconfig/default. CrsFetchNetworkError: true. Error: TypeError: Failed to fetch"},"message":"CRS fetch network error"}", source: https://assets.msn.com/bundles/v1/bingHomepage/latest/common.663a297ed326a0938251.js (1)
+[1127/132921.497:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/508f5706-26b0-442d-87f6-6a69d73b776d\" skips prefix match because of non-special URL scheme"
+[1127/132921.498:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b3171d18-14c7-4ba4-85d7-2dae4b58de2e\" skips prefix match because of non-special URL scheme"
+[1127/132921.502:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1127/132921.508:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1127/132921.545:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1127/132922.029:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/132924.455:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=9ECDA399EB5F4B27B724D709F4EAC402 (0)
+[1127/135004.883:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/aa66fd0e-8f13-4690-92c6-d0a95c9b3102\" skips prefix match because of non-special URL scheme"
+[1127/135004.884:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/a454b17b-d889-40d0-ac0a-e319fa7c15ba\" skips prefix match because of non-special URL scheme"
+[1127/135004.889:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1127/135004.896:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1127/135005.247:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1127/135005.287:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1127/135005.312:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/135005.373:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803782 [6,6]
+[1127/135005.702:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1127/135005.703:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1127/135005.703:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1127/135005.703:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1127/135005.785:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1127/135005.785:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1127/135005.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1127/135005.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1127/135007.690:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=8B9AB918F5104185B951101EF3D12FC9 (0)
+[1127/135354.130:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1127/135810.055:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=Cats (9)
+[1127/135811.006:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/135811.234:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1127/135811.282:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1127/135811.344:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705671 [9,7]
+[1127/135811.423:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/135811.424:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/135811.424:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/135811.424:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[1127/135811.479:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1127/135811.480:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1127/135811.480:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1127/135811.480:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1127/135811.501:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836489 [5,9]
+[1127/135811.501:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836489 [5,9]
+[1127/135811.502:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836489 [5,9]
+[1127/135811.502:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836489 [5,9]
+[1127/135834.817:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats' was loaded over HTTPS, but requested an insecure element 'http://t9.baidu.com/it/u=2512990675,844298337&fm=74&app=80&f=JPEG&size=f121,121?sec=1880279984&t=a1279ce0f88ee0611493f8149d7ba86e'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats (0)
+[1127/135834.818:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats' was loaded over HTTPS, but requested an insecure element 'http://baikebcs.bdimg.com/baike-icon.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats (0)
+[1127/135834.818:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats' was loaded over HTTPS, but requested an insecure element 'http://t9.baidu.com/it/u=2512990675,844298337&fm=74&app=80&f=JPEG&size=f121,121?sec=1880279984&t=a1279ce0f88ee0611493f8149d7ba86e'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats (0)
+[1127/135834.818:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats' was loaded over HTTPS, but requested an insecure element 'http://baikebcs.bdimg.com/baike-icon.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Cats (0)
+[1127/135836.163:INFO:CONSOLE(259)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_1aa3c64.js (259)
+[1127/135836.163:INFO:CONSOLE(259)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html color:red", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_1aa3c64.js (259)
+[1127/135905.308:INFO:CONSOLE(259)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_1aa3c64.js (259)
+[1127/135905.308:INFO:CONSOLE(259)] "%c百度2022校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html color:red", source: https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_1aa3c64.js (259)
+[1127/135924.782:INFO:CONSOLE(2052)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://chrome.google.com/_/scs/cws-static/_/js/k=cws.main.en_US.fxuFd5Rc2iE.O/am=AQ/d=1/rs=AAxzQIUbU7lZRGhVIa_wXXm2zR3mUfx7Zg/m=consumer (2052)
+[1127/135925.748:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1127/135946.442:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1127/135946.442:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1127/135946.442:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1127/135946.443:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1127/135946.443:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[1127/135946.443:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[1127/135946.443:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[1127/135946.443:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[1127/135946.535:INFO:CONSOLE(6)] "Refused to load the script 'https://yandex.site/' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-inline' 'unsafe-eval' yandex.com *.yandex.com yandex.ru *.yandex.ru yastat.net yastatic.net *.yastatic.net yandex.net *.yandex.net 'nonce-9681' mc.yandex.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://yastatic.net/s3/web4static/_/v2/bD6vv1UsvWpnjOMpsaSB8hc9Rtk.js (6)
+[1127/140000.610:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444037 [17,5]
+[1127/140000.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444037 [17,5]
+[1127/140000.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444037 [17,5]
+[1127/140000.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444037 [17,5]
+[1127/140000.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444037 [17,5]
+[1127/140000.789:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444040 [17,8]
+[1127/140000.789:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444040 [17,8]
+[1127/140000.789:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444040 [17,8]
+[1127/140000.789:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444040 [17,8]
+[1127/140000.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444043 [17,11]
+[1127/140000.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444043 [17,11]
+[1127/140000.840:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444043 [17,11]
+[1127/140000.841:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444043 [17,11]
+[1127/140000.861:INFO:CONSOLE(1)] "add shopping list listeners", source: https://ds8tuylnjknkd.cloudfront.net/script.js (1)
+[1127/140000.937:INFO:CONSOLE(24)] "[Facebook Pixel] - Removed URL query parameters due to potential violations.", source: https://connect.facebook.net/en_US/fbevents.js (24)
+[1127/140000.938:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444046 [17,14]
+[1127/140000.939:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444046 [17,14]
+[1127/140000.939:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444046 [17,14]
+[1127/140000.939:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444046 [17,14]
+[1127/140001.045:INFO:CONSOLE(273)] "The following CSA option(s) were ignored due to being overridden by native style controls: attributionSpacingBelow,colorAttribution,colorText,colorBackground,colorBorder,colorAdSeparator,fontSizeTitle,fontSizeAttribution,lineHeightTitle,colorTitleLink", source: https://www.google.com/adsense/search/async-ads.js (273)
+[1127/140001.996:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411337 [18,9]
+[1127/140002.094:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378634 [19,10]
+[1127/140002.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378634 [19,10]
+[1127/140002.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378634 [19,10]
+[1127/140002.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378634 [19,10]
+[1127/140002.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378634 [19,10]
+[1127/140002.347:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411337 [18,9]
+[1127/140002.347:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411337 [18,9]
+[1127/140002.347:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411337 [18,9]
+[1127/140002.347:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411337 [18,9]
+[1127/140002.349:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140002.759:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378638 [19,14]
+[1127/140002.760:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378638 [19,14]
+[1127/140002.760:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378638 [19,14]
+[1127/140002.760:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378638 [19,14]
+[1127/140002.792:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345933 [20,13]
+[1127/140002.819:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140002.992:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313230 [21,14]
+[1127/140003.023:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117012 [27,20]
+[1127/140003.024:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117012 [27,20]
+[1127/140003.024:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117012 [27,20]
+[1127/140003.024:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117012 [27,20]
+[1127/140003.029:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280527 [22,15]
+[1127/140003.046:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140003.075:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182418 [25,18]
+[1127/140003.077:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247824 [23,16]
+[1127/140003.095:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215121 [24,17]
+[1127/140003.096:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215121 [24,17]
+[1127/140003.097:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215121 [24,17]
+[1127/140003.099:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215121 [24,17]
+[1127/140003.102:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215121 [24,17]
+[1127/140003.103:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051607 [29,23]
+[1127/140003.110:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182418 [25,18]
+[1127/140003.112:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182418 [25,18]
+[1127/140003.115:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182418 [25,18]
+[1127/140003.116:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182418 [25,18]
+[1127/140003.120:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247824 [23,16]
+[1127/140003.121:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247824 [23,16]
+[1127/140003.123:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247824 [23,16]
+[1127/140003.123:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247824 [23,16]
+[1127/140003.136:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345933 [20,13]
+[1127/140003.142:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345933 [20,13]
+[1127/140003.145:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345933 [20,13]
+[1127/140003.145:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117012 [27,20]
+[1127/140003.145:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345933 [20,13]
+[1127/140003.146:WARNING:browser_info.cc(298)] Returning a speculative frame for 111669149715 [26,19]
+[1127/140003.155:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313230 [21,14]
+[1127/140003.156:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313230 [21,14]
+[1127/140003.160:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313230 [21,14]
+[1127/140003.162:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313230 [21,14]
+[1127/140003.175:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444066 [17,34]
+[1127/140003.176:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444066 [17,34]
+[1127/140003.177:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444066 [17,34]
+[1127/140003.177:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444066 [17,34]
+[1127/140003.197:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140003.202:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378653 [19,29]
+[1127/140003.202:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378653 [19,29]
+[1127/140003.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378653 [19,29]
+[1127/140003.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378653 [19,29]
+[1127/140003.209:WARNING:browser_info.cc(298)] Returning a speculative frame for 128849018904 [30,24]
+[1127/140003.253:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140003.295:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280527 [22,15]
+[1127/140003.296:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280527 [22,15]
+[1127/140003.296:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280527 [22,15]
+[1127/140003.296:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280527 [22,15]
+[1127/140003.303:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140003.339:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051607 [29,23]
+[1127/140003.341:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051607 [29,23]
+[1127/140003.342:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051607 [29,23]
+[1127/140003.342:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051607 [29,23]
+[1127/140003.395:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986203 [31,27]
+[1127/140003.424:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215134 [24,30]
+[1127/140003.429:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215134 [24,30]
+[1127/140003.432:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215134 [24,30]
+[1127/140003.434:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215134 [24,30]
+[1127/140003.486:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986203 [31,27]
+[1127/140003.486:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986203 [31,27]
+[1127/140003.486:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986203 [31,27]
+[1127/140003.486:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986203 [31,27]
+[1127/140003.487:WARNING:browser_info.cc(298)] Returning a speculative frame for 137438953501 [32,29]
+[1127/140003.489:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345955 [20,35]
+[1127/140003.489:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345955 [20,35]
+[1127/140003.490:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345955 [20,35]
+[1127/140003.490:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345955 [20,35]
+[1127/140003.535:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888096 [34,32]
+[1127/140003.604:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920799 [33,31]
+[1127/140003.611:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822691 [36,35]
+[1127/140003.632:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888096 [34,32]
+[1127/140003.634:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888096 [34,32]
+[1127/140003.635:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888096 [34,32]
+[1127/140003.636:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888096 [34,32]
+[1127/140003.658:WARNING:browser_info.cc(298)] Returning a speculative frame for 150323855394 [35,34]
+[1127/140003.659:WARNING:browser_info.cc(298)] Returning a speculative frame for 163208757285 [38,37]
+[1127/140003.683:WARNING:browser_info.cc(298)] Returning a speculative frame for 158913789988 [37,36]
+[1127/140003.695:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182432 [25,32]
+[1127/140003.696:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182432 [25,32]
+[1127/140003.696:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182432 [25,32]
+[1127/140003.696:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182432 [25,32]
+[1127/140003.734:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724582 [39,38]
+[1127/140003.853:WARNING:browser_info.cc(298)] Returning a speculative frame for 171798691880 [40,40]
+[1127/140003.879:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659178 [41,42]
+[1127/140003.880:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659178 [41,42]
+[1127/140003.880:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659178 [41,42]
+[1127/140003.880:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659178 [41,42]
+[1127/140003.898:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411381 [18,53]
+[1127/140003.899:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411381 [18,53]
+[1127/140003.899:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411381 [18,53]
+[1127/140003.899:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411381 [18,53]
+[1127/140003.905:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140003.910:WARNING:browser_info.cc(298)] Returning a speculative frame for 171798691880 [40,40]
+[1127/140003.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 171798691880 [40,40]
+[1127/140003.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 171798691880 [40,40]
+[1127/140003.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 171798691880 [40,40]
+[1127/140003.929:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659178 [41,42]
+[1127/140004.202:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626474 [42,42]
+[1127/140004.202:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626474 [42,42]
+[1127/140004.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626474 [42,42]
+[1127/140004.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626474 [42,42]
+[1127/140004.211:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626474 [42,42]
+[1127/140004.329:WARNING:browser_info.cc(298)] Returning a speculative frame for 184683593772 [43,44]
+[1127/140004.331:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182450 [25,50]
+[1127/140004.332:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182450 [25,50]
+[1127/140004.332:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182450 [25,50]
+[1127/140004.332:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182450 [25,50]
+[1127/140004.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215157 [24,53]
+[1127/140004.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215157 [24,53]
+[1127/140004.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215157 [24,53]
+[1127/140004.376:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215157 [24,53]
+[1127/140006.505:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=&gdprConsent= (1)
+[1127/140006.748:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561069 [44,45]
+[1127/140006.800:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.ask.com/web?q=Doge' was loaded over HTTPS, but requested an insecure element 'http://match.prod.bidr.io/cookie-sync/shr&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.ask.com/web?q=Doge (0)
+[1127/140006.813:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561069 [44,45]
+[1127/140006.814:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561069 [44,45]
+[1127/140006.814:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561069 [44,45]
+[1127/140006.814:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561069 [44,45]
+[1127/140006.830:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528366 [45,46]
+[1127/140006.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528366 [45,46]
+[1127/140006.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528366 [45,46]
+[1127/140006.835:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528366 [45,46]
+[1127/140006.848:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215165 [24,61]
+[1127/140006.848:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215165 [24,61]
+[1127/140006.849:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215165 [24,61]
+[1127/140006.849:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215165 [24,61]
+[1127/140006.851:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182461 [25,61]
+[1127/140006.861:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182461 [25,61]
+[1127/140006.862:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182461 [25,61]
+[1127/140006.863:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182461 [25,61]
+[1127/140006.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117051 [27,59]
+[1127/140006.886:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117051 [27,59]
+[1127/140006.887:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117051 [27,59]
+[1127/140006.887:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117051 [27,59]
+[1127/140006.961:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626490 [42,58]
+[1127/140006.962:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626490 [42,58]
+[1127/140006.962:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626490 [42,58]
+[1127/140006.963:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626490 [42,58]
+[1127/140006.972:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462960 [47,48]
+[1127/140006.987:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528366 [45,46]
+[1127/140006.987:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430257 [48,49]
+[1127/140006.988:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462960 [47,48]
+[1127/140006.988:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462960 [47,48]
+[1127/140006.989:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462960 [47,48]
+[1127/140006.989:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462960 [47,48]
+[1127/140006.989:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397555 [49,51]
+[1127/140006.991:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397555 [49,51]
+[1127/140006.992:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397555 [49,51]
+[1127/140006.992:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397555 [49,51]
+[1127/140006.992:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397555 [49,51]
+[1127/140007.124:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332151 [51,55]
+[1127/140007.231:WARNING:browser_info.cc(298)] Returning a speculative frame for 223338299448 [52,56]
+[1127/140007.256:WARNING:browser_info.cc(298)] Returning a speculative frame for 227633266748 [53,60]
+[1127/140007.302:WARNING:browser_info.cc(298)] Returning a speculative frame for 231928234052 [54,68]
+[1127/140007.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 236223201349 [55,69]
+[1127/140007.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 236223201349 [55,69]
+[1127/140007.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 236223201349 [55,69]
+[1127/140007.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 236223201349 [55,69]
+[1127/140007.366:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117072 [27,80]
+[1127/140007.366:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117072 [27,80]
+[1127/140007.366:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117072 [27,80]
+[1127/140007.366:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117072 [27,80]
+[1127/140007.368:WARNING:browser_info.cc(298)] Returning a speculative frame for 236223201349 [55,69]
+[1127/140007.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215180 [24,76]
+[1127/140007.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215180 [24,76]
+[1127/140007.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215180 [24,76]
+[1127/140007.375:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215180 [24,76]
+[1127/140007.376:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215175 [24,71]
+[1127/140007.377:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215175 [24,71]
+[1127/140007.377:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215175 [24,71]
+[1127/140007.377:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215175 [24,71]
+[1127/140007.379:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215185 [24,81]
+[1127/140007.379:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215185 [24,81]
+[1127/140007.379:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215185 [24,81]
+[1127/140007.380:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215185 [24,81]
+[1127/140007.387:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313288 [21,72]
+[1127/140007.388:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313288 [21,72]
+[1127/140007.388:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313288 [21,72]
+[1127/140007.388:WARNING:browser_info.cc(298)] Returning a speculative frame for 90194313288 [21,72]
+[1127/140007.392:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117058 [27,66]
+[1127/140007.392:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117058 [27,66]
+[1127/140007.393:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117058 [27,66]
+[1127/140007.393:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117058 [27,66]
+[1127/140007.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117066 [27,74]
+[1127/140007.395:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117066 [27,74]
+[1127/140007.395:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117066 [27,74]
+[1127/140007.395:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117066 [27,74]
+[1127/140007.397:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fcms-xch-chicago.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D (1)
+[1127/140007.549:WARNING:browser_info.cc(298)] Returning a speculative frame for 240518168650 [56,74]
+[1127/140007.628:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182474 [25,74]
+[1127/140007.628:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182474 [25,74]
+[1127/140007.628:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182474 [25,74]
+[1127/140007.629:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182474 [25,74]
+[1127/140007.651:WARNING:browser_info.cc(298)] Returning a speculative frame for 244813135947 [57,75]
+[1127/140007.661:WARNING:browser_info.cc(298)] Returning a speculative frame for 231928234052 [54,68]
+[1127/140007.661:WARNING:browser_info.cc(298)] Returning a speculative frame for 231928234052 [54,68]
+[1127/140007.661:WARNING:browser_info.cc(298)] Returning a speculative frame for 231928234052 [54,68]
+[1127/140007.662:WARNING:browser_info.cc(298)] Returning a speculative frame for 231928234052 [54,68]
+[1127/140007.669:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051655 [29,71]
+[1127/140007.669:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051655 [29,71]
+[1127/140007.669:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051655 [29,71]
+[1127/140007.669:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051655 [29,71]
+[1127/140007.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215196 [24,92]
+[1127/140007.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215196 [24,92]
+[1127/140007.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215196 [24,92]
+[1127/140007.687:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215196 [24,92]
+[1127/140007.697:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182483 [25,83]
+[1127/140007.698:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182483 [25,83]
+[1127/140007.698:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182483 [25,83]
+[1127/140007.698:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182483 [25,83]
+[1127/140007.738:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215202 [24,98]
+[1127/140007.739:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215202 [24,98]
+[1127/140007.739:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215202 [24,98]
+[1127/140007.739:WARNING:browser_info.cc(298)] Returning a speculative frame for 103079215202 [24,98]
+[1127/140007.749:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345999 [20,79]
+[1127/140007.749:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345999 [20,79]
+[1127/140007.750:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345999 [20,79]
+[1127/140007.750:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345999 [20,79]
+[1127/140007.872:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182491 [25,91]
+[1127/140007.873:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182491 [25,91]
+[1127/140007.873:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182491 [25,91]
+[1127/140007.873:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182491 [25,91]
+[1127/140007.907:WARNING:browser_info.cc(298)] Returning a speculative frame for 249108103245 [58,77]
+[1127/140007.907:WARNING:browser_info.cc(298)] Returning a speculative frame for 249108103245 [58,77]
+[1127/140007.907:WARNING:browser_info.cc(298)] Returning a speculative frame for 249108103245 [58,77]
+[1127/140007.908:WARNING:browser_info.cc(298)] Returning a speculative frame for 249108103245 [58,77]
+[1127/140007.910:WARNING:browser_info.cc(298)] Returning a speculative frame for 244813135947 [57,75]
+[1127/140007.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 244813135947 [57,75]
+[1127/140007.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 244813135947 [57,75]
+[1127/140007.911:WARNING:browser_info.cc(298)] Returning a speculative frame for 244813135947 [57,75]
+[1127/140007.935:WARNING:browser_info.cc(298)] Returning a speculative frame for 249108103245 [58,77]
+[1127/140008.674:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626516 [42,84]
+[1127/140008.675:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626516 [42,84]
+[1127/140008.675:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626516 [42,84]
+[1127/140008.675:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626516 [42,84]
+[1127/140008.863:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280594 [22,82]
+[1127/140009.380:ERROR:ssl_client_socket_impl.cc(976)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1127/140010.480:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent= (1)
+[1127/140010.543:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent= (1)
+[1127/140010.574:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D (1)
+[1127/140010.724:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent= (1)
+[1127/140010.772:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156319&userIdMacro=PM_UID&predirect=https%3A%2F%2Fe.serverbid.com%2Fudb%2F9969%2Fsync%2Fi.gif%3FpartnerId%3D4%26userId%3DPM_UID (1)
+[1127/140011.700:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140012.619:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1127/140136.473:WARNING:browser_info.cc(298)] Returning a speculative frame for 274877906949 [64,5]
+[1127/140136.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 274877906949 [64,5]
+[1127/140136.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 274877906949 [64,5]
+[1127/140136.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 274877906949 [64,5]
+[1127/140136.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 274877906949 [64,5]
+[1127/144955.258:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1128/101825.866:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0c61d058-1790-4eae-b264-10aad31a5595\" skips prefix match because of non-special URL scheme"
+[1128/101825.868:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/f4d40a46-7339-4fa5-a73b-e701b9965337\" skips prefix match because of non-special URL scheme"
+[1128/101825.878:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1128/101825.886:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1128/101826.152:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1128/101826.277:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/101826.306:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1128/101826.403:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1128/101826.539:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/101826.539:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/101826.539:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/101826.539:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/101826.617:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/101826.617:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/101826.617:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/101826.617:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/101828.620:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1128/102024.962:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1128/102442.295:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/7198de05-c760-4001-8f8b-47f5498a8ed2\" skips prefix match because of non-special URL scheme"
+[1128/102442.297:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/e3229558-5208-4658-8194-13c36c961207\" skips prefix match because of non-special URL scheme"
+[1128/102442.301:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1128/102442.307:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1128/102442.384:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1128/102442.532:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1128/102445.190:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0238fd3c-a998-4f67-8b20-d34cb084c0a2\" skips prefix match because of non-special URL scheme"
+[1128/102445.191:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/59dd64d6-5b25-4c44-853e-8d25481ac08d\" skips prefix match because of non-special URL scheme"
+[1128/102445.195:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1128/102445.200:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1128/102445.242:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1128/102445.281:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1128/102445.502:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1128/102448.132:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1128/102452.322:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b3023447-ad8e-4597-a73d-5461687c243c\" skips prefix match because of non-special URL scheme"
+[1128/102452.336:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/4f6e9ca4-5503-4b7c-a12e-7ea5de61dd42\" skips prefix match because of non-special URL scheme"
+[1128/102452.401:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1128/102452.853:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1128/102453.855:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1128/102454.065:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1128/102454.321:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1128/102614.485:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/5acbaef1-a2e7-4db1-a75b-e7649243fee8\" skips prefix match because of non-special URL scheme"
+[1128/102614.486:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/9ab95157-71cf-4e2c-915a-9b2063a650c6\" skips prefix match because of non-special URL scheme"
+[1128/102614.492:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1128/102614.499:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1128/102614.788:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1128/102614.891:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/102614.920:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1128/102615.001:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1128/102615.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/102615.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/102615.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/102615.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1128/102615.243:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/102615.243:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/102615.243:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/102615.243:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1128/102617.311:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1128/102642.299:INFO:CONSOLE(1)] "add shopping list listeners", source: https://ds8tuylnjknkd.cloudfront.net/script.js (1)
+[1128/102642.331:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1128/102642.417:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1128/102642.417:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1128/102642.418:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1128/102642.418:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1128/102642.429:INFO:CONSOLE(24)] "[Facebook Pixel] - Removed URL query parameters due to potential violations.", source: https://connect.facebook.net/en_US/fbevents.js (24)
+[1128/102642.457:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[1128/102642.457:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[1128/102642.457:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[1128/102642.457:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[1128/102642.498:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705675 [9,11]
+[1128/102642.499:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705675 [9,11]
+[1128/102642.499:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705675 [9,11]
+[1128/102642.499:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705675 [9,11]
+[1128/102642.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705678 [9,14]
+[1128/102642.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705678 [9,14]
+[1128/102642.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705678 [9,14]
+[1128/102642.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705678 [9,14]
+[1128/102642.771:INFO:CONSOLE(273)] "The following CSA option(s) were ignored due to being overridden by native style controls: attributionSpacingBelow,colorAttribution,colorText,colorBackground,colorBorder,colorAdSeparator,fontSizeTitle,fontSizeAttribution,lineHeightTitle,colorTitleLink", source: https://www.google.com/adsense/search/async-ads.js (273)
+[1128/102643.379:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672969 [10,9]
+[1128/102643.474:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640266 [11,10]
+[1128/102643.561:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640266 [11,10]
+[1128/102643.561:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640266 [11,10]
+[1128/102643.561:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640266 [11,10]
+[1128/102643.561:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640266 [11,10]
+[1128/102643.570:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672969 [10,9]
+[1128/102643.570:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672969 [10,9]
+[1128/102643.570:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672969 [10,9]
+[1128/102643.570:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672969 [10,9]
+[1128/102643.572:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102643.631:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102643.642:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607564 [12,12]
+[1128/102643.757:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411346 [18,18]
+[1128/102643.757:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411346 [18,18]
+[1128/102643.757:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411346 [18,18]
+[1128/102643.757:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411346 [18,18]
+[1128/102643.780:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509455 [15,15]
+[1128/102643.781:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509455 [15,15]
+[1128/102643.781:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509455 [15,15]
+[1128/102643.781:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509455 [15,15]
+[1128/102643.782:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102643.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476752 [16,16]
+[1128/102643.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476752 [16,16]
+[1128/102643.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476752 [16,16]
+[1128/102643.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476752 [16,16]
+[1128/102643.802:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542158 [14,14]
+[1128/102643.802:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542158 [14,14]
+[1128/102643.802:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542158 [14,14]
+[1128/102643.802:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542158 [14,14]
+[1128/102643.809:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607564 [12,12]
+[1128/102643.810:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607564 [12,12]
+[1128/102643.810:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607564 [12,12]
+[1128/102643.810:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607564 [12,12]
+[1128/102643.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705696 [9,32]
+[1128/102643.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705696 [9,32]
+[1128/102643.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705696 [9,32]
+[1128/102643.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705696 [9,32]
+[1128/102643.836:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102643.837:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509455 [15,15]
+[1128/102643.844:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542158 [14,14]
+[1128/102643.845:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476752 [16,16]
+[1128/102643.862:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640281 [11,25]
+[1128/102643.863:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640281 [11,25]
+[1128/102643.863:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640281 [11,25]
+[1128/102643.863:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640281 [11,25]
+[1128/102643.871:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574861 [13,13]
+[1128/102643.886:WARNING:browser_info.cc(298)] Returning a speculative frame for 73014444049 [17,17]
+[1128/102643.889:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411346 [18,18]
+[1128/102643.896:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574861 [13,13]
+[1128/102643.896:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574861 [13,13]
+[1128/102643.896:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574861 [13,13]
+[1128/102643.896:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574861 [13,13]
+[1128/102643.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102643.957:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345941 [20,21]
+[1128/102643.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102644.033:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345941 [20,21]
+[1128/102644.033:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345941 [20,21]
+[1128/102644.033:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345941 [20,21]
+[1128/102644.033:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345941 [20,21]
+[1128/102644.034:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509468 [15,28]
+[1128/102644.035:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509468 [15,28]
+[1128/102644.035:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509468 [15,28]
+[1128/102644.035:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509468 [15,28]
+[1128/102644.141:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476766 [16,30]
+[1128/102644.141:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476766 [16,30]
+[1128/102644.142:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476766 [16,30]
+[1128/102644.142:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476766 [16,30]
+[1128/102644.164:WARNING:browser_info.cc(298)] Returning a speculative frame for 94489280539 [22,27]
+[1128/102644.189:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182431 [25,31]
+[1128/102644.190:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182431 [25,31]
+[1128/102644.190:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182431 [25,31]
+[1128/102644.190:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182431 [25,31]
+[1128/102644.235:WARNING:browser_info.cc(298)] Returning a speculative frame for 98784247837 [23,29]
+[1128/102644.268:INFO:CONSOLE(5)] "Powered by AMP ⚡ HTML – Version 2111011823000 https://www.ask.com/web?q=Hello%20World", source: https://cdn.ampproject.org/rtv/012111011823000/amp4ads-v0.mjs (5)
+[1128/102644.286:WARNING:browser_info.cc(298)] Returning a speculative frame for 115964117025 [27,33]
+[1128/102644.287:WARNING:browser_info.cc(298)] Returning a speculative frame for 111669149728 [26,32]
+[1128/102644.294:WARNING:browser_info.cc(298)] Returning a speculative frame for 120259084322 [28,34]
+[1128/102644.310:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182431 [25,31]
+[1128/102644.339:WARNING:browser_info.cc(298)] Returning a speculative frame for 124554051619 [29,35]
+[1128/102644.377:WARNING:browser_info.cc(298)] Returning a speculative frame for 128849018916 [30,36]
+[1128/102644.378:INFO:CONSOLE(3)] "Unrecognized feature: 'attribution-reporting'.", source: https://cdn.ampproject.org/rtv/012111011823000/v0/amp-ad-exit-0.1.mjs (3)
+[1128/102644.516:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986213 [31,37]
+[1128/102644.546:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949673009 [10,49]
+[1128/102644.546:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949673009 [10,49]
+[1128/102644.546:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949673009 [10,49]
+[1128/102644.546:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949673009 [10,49]
+[1128/102644.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1128/102644.564:WARNING:browser_info.cc(298)] Returning a speculative frame for 137438953510 [32,38]
+[1128/102644.674:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920807 [33,39]
+[1128/102644.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986213 [31,37]
+[1128/102644.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986213 [31,37]
+[1128/102644.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986213 [31,37]
+[1128/102644.688:WARNING:browser_info.cc(298)] Returning a speculative frame for 133143986213 [31,37]
+[1128/102644.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888103 [34,39]
+[1128/102644.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888103 [34,39]
+[1128/102644.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888103 [34,39]
+[1128/102644.700:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888103 [34,39]
+[1128/102644.801:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888103 [34,39]
+[1128/102644.806:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920807 [33,39]
+[1128/102644.806:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920807 [33,39]
+[1128/102644.806:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920807 [33,39]
+[1128/102644.806:WARNING:browser_info.cc(298)] Returning a speculative frame for 141733920807 [33,39]
+[1128/102644.855:WARNING:browser_info.cc(298)] Returning a speculative frame for 150323855401 [35,41]
+[1128/102644.909:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476782 [16,46]
+[1128/102644.909:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476782 [16,46]
+[1128/102644.909:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476782 [16,46]
+[1128/102644.909:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476782 [16,46]
+[1128/102644.946:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509489 [15,49]
+[1128/102644.947:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509489 [15,49]
+[1128/102644.947:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509489 [15,49]
+[1128/102644.947:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509489 [15,49]
+[1128/102647.296:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=&gdprConsent= (1)
+[1128/102647.976:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fcms-xch-chicago.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D (1)
+[1128/102648.246:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822698 [36,42]
+[1128/102648.293:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://www.ask.com/web?q=Hello%20World' was loaded over HTTPS, but requested an insecure element 'http://match.prod.bidr.io/cookie-sync/shr&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://www.ask.com/web?q=Hello%20World (0)
+[1128/102648.330:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476792 [16,56]
+[1128/102648.330:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476792 [16,56]
+[1128/102648.330:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476792 [16,56]
+[1128/102648.330:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476792 [16,56]
+[1128/102648.348:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=159802&us_privacy=1---' from origin 'https://www.ask.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.ask.com/web?q=Hello%20World (0)
+[1128/102648.349:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659185 [41,49]
+[1128/102648.350:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659185 [41,49]
+[1128/102648.350:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659185 [41,49]
+[1128/102648.350:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659185 [41,49]
+[1128/102648.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626482 [42,50]
+[1128/102648.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626482 [42,50]
+[1128/102648.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626482 [42,50]
+[1128/102648.354:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626482 [42,50]
+[1128/102648.356:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411383 [18,55]
+[1128/102648.356:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411383 [18,55]
+[1128/102648.356:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411383 [18,55]
+[1128/102648.356:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411383 [18,55]
+[1128/102648.391:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888119 [34,55]
+[1128/102648.392:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888119 [34,55]
+[1128/102648.392:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888119 [34,55]
+[1128/102648.392:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888119 [34,55]
+[1128/102648.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509501 [15,61]
+[1128/102648.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509501 [15,61]
+[1128/102648.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509501 [15,61]
+[1128/102648.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509501 [15,61]
+[1128/102648.413:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822698 [36,42]
+[1128/102648.413:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822698 [36,42]
+[1128/102648.414:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822698 [36,42]
+[1128/102648.414:WARNING:browser_info.cc(298)] Returning a speculative frame for 154618822698 [36,42]
+[1128/102648.435:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724590 [39,46]
+[1128/102648.435:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724590 [39,46]
+[1128/102648.435:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724590 [39,46]
+[1128/102648.435:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724590 [39,46]
+[1128/102648.441:WARNING:browser_info.cc(298)] Returning a speculative frame for 167503724590 [39,46]
+[1128/102648.442:WARNING:browser_info.cc(298)] Returning a speculative frame for 163208757293 [38,45]
+[1128/102648.460:WARNING:browser_info.cc(298)] Returning a speculative frame for 176093659185 [41,49]
+[1128/102648.475:WARNING:browser_info.cc(298)] Returning a speculative frame for 180388626482 [42,50]
+[1128/102648.627:WARNING:browser_info.cc(298)] Returning a speculative frame for 184683593780 [43,52]
+[1128/102648.649:WARNING:browser_info.cc(298)] Returning a speculative frame for 188978561083 [44,59]
+[1128/102648.712:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528379 [45,59]
+[1128/102648.716:WARNING:browser_info.cc(298)] Returning a speculative frame for 197568495678 [46,62]
+[1128/102648.737:WARNING:browser_info.cc(298)] Returning a speculative frame for 201863462978 [47,66]
+[1128/102648.737:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509506 [15,66]
+[1128/102648.737:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509506 [15,66]
+[1128/102648.737:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509506 [15,66]
+[1128/102648.737:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509506 [15,66]
+[1128/102648.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430275 [48,67]
+[1128/102648.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430275 [48,67]
+[1128/102648.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430275 [48,67]
+[1128/102648.756:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430275 [48,67]
+[1128/102648.776:WARNING:browser_info.cc(298)] Returning a speculative frame for 206158430275 [48,67]
+[1128/102648.785:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411405 [18,77]
+[1128/102648.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411405 [18,77]
+[1128/102648.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411405 [18,77]
+[1128/102648.786:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411405 [18,77]
+[1128/102648.795:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476799 [16,63]
+[1128/102648.795:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476799 [16,63]
+[1128/102648.795:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476799 [16,63]
+[1128/102648.796:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476799 [16,63]
+[1128/102648.797:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411389 [18,61]
+[1128/102648.797:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411389 [18,61]
+[1128/102648.798:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411389 [18,61]
+[1128/102648.798:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411389 [18,61]
+[1128/102648.802:ERROR:ssl_client_socket_impl.cc(976)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1128/102648.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509520 [15,80]
+[1128/102648.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509520 [15,80]
+[1128/102648.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509520 [15,80]
+[1128/102648.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509520 [15,80]
+[1128/102648.892:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509523 [15,83]
+[1128/102648.893:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509523 [15,83]
+[1128/102648.893:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509523 [15,83]
+[1128/102648.893:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509523 [15,83]
+[1128/102648.901:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411397 [18,69]
+[1128/102648.901:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411397 [18,69]
+[1128/102648.902:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411397 [18,69]
+[1128/102648.902:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411397 [18,69]
+[1128/102648.903:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607624 [12,72]
+[1128/102648.903:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607624 [12,72]
+[1128/102648.903:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607624 [12,72]
+[1128/102648.903:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607624 [12,72]
+[1128/102648.921:WARNING:browser_info.cc(298)] Returning a speculative frame for 210453397572 [49,68]
+[1128/102649.016:WARNING:browser_info.cc(298)] Returning a speculative frame for 214748364869 [50,69]
+[1128/102649.018:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345980 [20,60]
+[1128/102649.018:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345980 [20,60]
+[1128/102649.018:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345980 [20,60]
+[1128/102649.018:WARNING:browser_info.cc(298)] Returning a speculative frame for 85899345980 [20,60]
+[1128/102649.046:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888145 [34,81]
+[1128/102649.046:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888145 [34,81]
+[1128/102649.046:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888145 [34,81]
+[1128/102649.046:WARNING:browser_info.cc(298)] Returning a speculative frame for 146028888145 [34,81]
+[1128/102649.048:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528379 [45,59]
+[1128/102649.049:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528379 [45,59]
+[1128/102649.049:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528379 [45,59]
+[1128/102649.049:WARNING:browser_info.cc(298)] Returning a speculative frame for 193273528379 [45,59]
+[1128/102649.129:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509529 [15,89]
+[1128/102649.129:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509529 [15,89]
+[1128/102649.129:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509529 [15,89]
+[1128/102649.129:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509529 [15,89]
+[1128/102649.162:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509534 [15,94]
+[1128/102649.162:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509534 [15,94]
+[1128/102649.162:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509534 [15,94]
+[1128/102649.162:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509534 [15,94]
+[1128/102649.178:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182477 [25,77]
+[1128/102649.178:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182477 [25,77]
+[1128/102649.178:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182477 [25,77]
+[1128/102649.178:WARNING:browser_info.cc(298)] Returning a speculative frame for 107374182477 [25,77]
+[1128/102649.197:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476822 [16,86]
+[1128/102649.197:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476822 [16,86]
+[1128/102649.198:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476822 [16,86]
+[1128/102649.198:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476822 [16,86]
+[1128/102649.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476818 [16,82]
+[1128/102649.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476818 [16,82]
+[1128/102649.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476818 [16,82]
+[1128/102649.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 68719476818 [16,82]
+[1128/102649.254:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332170 [51,74]
+[1128/102649.254:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332170 [51,74]
+[1128/102649.254:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332170 [51,74]
+[1128/102649.254:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332170 [51,74]
+[1128/102649.258:WARNING:browser_info.cc(298)] Returning a speculative frame for 214748364869 [50,69]
+[1128/102649.258:WARNING:browser_info.cc(298)] Returning a speculative frame for 214748364869 [50,69]
+[1128/102649.258:WARNING:browser_info.cc(298)] Returning a speculative frame for 214748364869 [50,69]
+[1128/102649.258:WARNING:browser_info.cc(298)] Returning a speculative frame for 214748364869 [50,69]
+[1128/102649.270:WARNING:browser_info.cc(298)] Returning a speculative frame for 219043332170 [51,74]
+[1128/102651.807:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156344&predirect=https%3A%2F%2Fsync.technoratimedia.com%2Fservices%3Fsrv%3Dcs%26pid%3D45%26uid%3D (1)
+[1128/102651.947:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent= (1)
+[1128/102652.010:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent= (1)
+[1128/102652.164:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156319&userIdMacro=PM_UID&predirect=https%3A%2F%2Fe.serverbid.com%2Fudb%2F9969%2Fsync%2Fi.gif%3FpartnerId%3D4%26userId%3DPM_UID (1)
+[1128/102652.196:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent= (1)
+[1128/102714.381:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156011&s=165626&predirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID (1)
+[1128/102718.605:INFO:CONSOLE(1)] "Uncaught ReferenceError: CommonMeta is not defined", source: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=159802&us_privacy=1--- (1)
+[1128/102813.838:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 

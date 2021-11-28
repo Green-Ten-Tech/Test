@@ -1,0 +1,573 @@
+[1124/170958.227:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1125/075331.500:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/075331.710:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/075331.712:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/075331.712:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/075331.713:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/075339.270:ERROR:url_util.cc(33)] Invalid URL: http://mai%3B.google.com/
+[1125/075355.134:INFO:CONSOLE(133)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/gmail/about/ (133)
+[1125/075359.133:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[1125/075359.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[1125/075359.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[1125/075359.239:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[1125/075359.239:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574853 [13,5]
+[1125/075400.503:INFO:CONSOLE(133)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/gmail/about/ (133)
+[1125/075402.620:INFO:CONSOLE(1)] "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead.", source:  (1)
+[1125/075404.652:INFO:CONSOLE(133)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/gmail/about/ (133)
+[1125/075408.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[1125/075408.585:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[1125/075408.586:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[1125/075408.586:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[1125/075408.587:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542149 [14,5]
+[1125/075408.773:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607566 [12,14]
+[1125/075408.773:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607566 [12,14]
+[1125/075408.774:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607566 [12,14]
+[1125/075408.774:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607566 [12,14]
+[1125/075409.182:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542155 [14,11]
+[1125/075409.183:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542155 [14,11]
+[1125/075409.183:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542155 [14,11]
+[1125/075409.183:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542155 [14,11]
+[1125/075411.039:INFO:CONSOLE(133)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/gmail/about/ (133)
+[1125/075522.275:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1125/085408.713:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509445 [15,5]
+[1125/085408.845:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509445 [15,5]
+[1125/085408.845:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509445 [15,5]
+[1125/085408.846:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509445 [15,5]
+[1125/085408.846:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509445 [15,5]
+[1125/085409.293:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509449 [15,9]
+[1125/085409.294:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509449 [15,9]
+[1125/085409.294:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509449 [15,9]
+[1125/085409.294:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509449 [15,9]
+[1125/085409.339:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509452 [15,12]
+[1125/085409.340:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509452 [15,12]
+[1125/085409.340:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509452 [15,12]
+[1125/085409.340:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509452 [15,12]
+[1125/104211.049:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/104243.851:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/105217.754:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/110754.875:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/111932.548:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/112203.230:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/112420.348:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/112801.931:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/112802.137:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/f5453245-c0b7-4137-9801-33d8d34f434f\" skips prefix match because of non-special URL scheme"
+[1125/112802.139:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b7a2e0ea-55e9-4718-809a-a5bda3b8516e\" skips prefix match because of non-special URL scheme"
+[1125/112802.150:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/112802.777:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/112803.725:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/112803.940:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/112804.638:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/112804.666:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/112804.829:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/112804.830:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/112804.830:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/112804.831:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/112804.931:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/112804.932:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/112804.932:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/112804.933:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/113147.109:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/113918.637:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0d5967e3-1e1e-46a6-bd14-2ccb48db18bd\" skips prefix match because of non-special URL scheme"
+[1125/113918.638:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/92ebcd91-2902-4da2-8a93-98efada47cb6\" skips prefix match because of non-special URL scheme"
+[1125/113918.644:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/113918.653:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/113919.035:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/113919.257:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/113919.299:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/113919.413:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/113919.564:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/113919.564:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/113919.565:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/113919.565:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/113919.649:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/113919.650:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/113919.650:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/113919.651:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/113921.581:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/114535.177:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/8a90b37b-13cc-459b-a433-feee7426d121\" skips prefix match because of non-special URL scheme"
+[1125/114535.180:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/4d47e6d5-af1d-42da-957b-3555efa3834c\" skips prefix match because of non-special URL scheme"
+[1125/114535.188:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/114535.199:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/114535.727:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/114535.967:WARNING:spdy_session.cc(3499)] Received HEADERS for invalid stream 129
+[1125/114817.691:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/114910.740:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/114949.182:INFO:child_thread_impl.cc(902)] ChildThreadImpl::EnsureConnected()
+[1125/115219.557:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/d9369fc8-2ff6-4a17-978c-b595d1619a11\" skips prefix match because of non-special URL scheme"
+[1125/115219.559:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/407c39ca-f1ff-40ba-9dc8-7721d32b9f24\" skips prefix match because of non-special URL scheme"
+[1125/115219.567:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/115219.579:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/115220.058:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/115220.248:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/115220.296:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/115220.396:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/115220.569:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/115220.569:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/115220.570:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/115220.571:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/115220.708:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/115220.708:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/115220.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/115220.709:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/115222.324:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/120049.438:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1125/120049.646:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1125/120050.101:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1125/123257.439:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/83e45dd8-ad7e-4bfd-95be-d67d9e339d74\" skips prefix match because of non-special URL scheme"
+[1125/123257.443:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/6f7faa51-881c-4563-a861-daa6af6250e3\" skips prefix match because of non-special URL scheme"
+[1125/123257.461:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/123257.481:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/123258.094:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/123258.260:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/123258.318:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/123258.458:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/123258.615:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/123258.615:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/123258.615:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/123258.615:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/123258.729:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/123258.729:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/123258.729:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/123258.729:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/123300.185:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/143719.192:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/7a71b035-4715-4a50-ab0e-0f9eb874ec39\" skips prefix match because of non-special URL scheme"
+[1125/143719.194:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/d66d98b9-81f8-4364-a57f-0c8846235b96\" skips prefix match because of non-special URL scheme"
+[1125/143719.203:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/143719.212:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/143719.768:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/143719.967:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/143720.005:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/143720.108:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/143720.252:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/143720.253:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/143720.253:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/143720.254:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/143720.334:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/143720.335:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/143720.335:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/143720.335:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/143721.863:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144010.593:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/21578f07-f39f-4a5a-bb94-cd6cb1e2d85f\" skips prefix match because of non-special URL scheme"
+[1125/144010.595:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/8a5a9b99-78d9-43bf-857c-efc08b740a9d\" skips prefix match because of non-special URL scheme"
+[1125/144010.604:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/144010.613:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/144011.111:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/144011.316:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144011.356:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144011.482:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/144011.640:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144011.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144011.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144011.642:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144011.740:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144011.740:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144011.741:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144011.741:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144013.352:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144022.258:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/fcdc6c06-15ac-4c1f-9472-66e0cc7c4ed8\" skips prefix match because of non-special URL scheme"
+[1125/144022.260:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/231c9f5e-fc40-4eb7-b4ee-5bdc2a21fb4c\" skips prefix match because of non-special URL scheme"
+[1125/144022.266:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/144022.275:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/144022.351:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/144022.606:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144025.176:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144436.997:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/9b7ba958-dd6c-4511-9429-b8596798c539\" skips prefix match because of non-special URL scheme"
+[1125/144436.999:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/8922a8ba-9bce-436b-8a74-377546fd670f\" skips prefix match because of non-special URL scheme"
+[1125/144437.006:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/144437.013:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/144437.581:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/144437.763:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144437.809:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144437.927:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/144438.083:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144438.084:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144438.084:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144438.085:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144438.187:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144438.188:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144438.188:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144438.189:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144439.803:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144458.048:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=jgriu\\ (9)
+[1125/144458.866:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/144458.925:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144459.337:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/144459.338:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/144459.338:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/144459.339:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/144614.624:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/eb23cfee-4585-498f-ace2-6156fb35bd96\" skips prefix match because of non-special URL scheme"
+[1125/144614.626:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/defdd385-94ff-4548-893a-d54f46e406a6\" skips prefix match because of non-special URL scheme"
+[1125/144614.637:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/144614.649:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/144615.118:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/144615.297:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144615.333:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144615.439:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/144615.606:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144615.606:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144615.607:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144615.607:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/144615.689:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144615.690:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144615.691:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144615.691:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/144617.356:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144619.275:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/debed3ea-c4c4-4a36-9e15-26709116d338\" skips prefix match because of non-special URL scheme"
+[1125/144619.277:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/4dd5eaca-971c-4ffb-8e7f-3c443f92bd2f\" skips prefix match because of non-special URL scheme"
+[1125/144619.284:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/144619.293:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/144619.354:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/144619.706:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/144622.176:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/144716.724:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://www.pa.gov/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[1125/144813.580:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1125/145247.202:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b81ed8f2-1c58-4050-a0ac-e19ad058229a\" skips prefix match because of non-special URL scheme"
+[1125/145247.204:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/353d385e-6631-4482-b976-4ee3eae1e33f\" skips prefix match because of non-special URL scheme"
+[1125/145247.213:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/145247.224:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/145247.629:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/145247.846:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/145247.900:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/145248.029:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/145248.117:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/145248.117:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/145248.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/145248.118:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/145248.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/145248.203:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/145248.204:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/145248.204:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/145249.972:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/145251.056:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/7672c553-7d9f-424c-a037-4f933d12d49e\" skips prefix match because of non-special URL scheme"
+[1125/145251.058:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/241f7710-1db9-4809-971d-5a8707d9b787\" skips prefix match because of non-special URL scheme"
+[1125/145251.065:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/145251.072:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/145251.136:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/145251.554:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/145254.001:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=FCED8A7294984B8F845766213F6C6908 (0)
+[1125/153842.840:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/705fff53-17c8-4320-9c7c-698284a2e63a\" skips prefix match because of non-special URL scheme"
+[1125/153842.842:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/488204b3-7b55-4d37-8120-bd3ab7ca21d5\" skips prefix match because of non-special URL scheme"
+[1125/153842.847:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/153842.855:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/153843.697:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/153843.935:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/153843.999:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153844.141:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/153844.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/153844.224:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/153844.224:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/153844.225:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/153844.323:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/153844.324:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/153844.324:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/153844.324:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/153845.483:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www4.bing.com/?form=DCDN (0)
+[1125/153847.987:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www4.bing.com/search?q=jhbrnekjcd4&form=QBLH&sp=-1&pq=jhbrnekjcd4&sc=0-11&qs=n&sk=&cvid=A3AD60BC351844BDAF6F8C9B63E9A579 (9)
+[1125/153848.428:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153848.440:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/153848.611:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/153848.612:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/153848.613:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/153848.614:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/153849.799:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/5fc456ae-1de7-4c33-a78f-c96d0a31dcf1\" skips prefix match because of non-special URL scheme"
+[1125/153849.801:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/e4ebbbbd-ec85-4b14-b028-baa8fd90f1f3\" skips prefix match because of non-special URL scheme"
+[1125/153849.808:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/153849.815:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/153849.882:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/153850.131:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1125/153850.227:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1125/153850.227:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1125/153850.228:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1125/153850.229:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1125/153850.323:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869198 [4,14]
+[1125/153850.324:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869198 [4,14]
+[1125/153850.325:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869198 [4,14]
+[1125/153850.325:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869198 [4,14]
+[1125/153850.331:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153850.355:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672966 [10,6]
+[1125/153851.619:WARNING:sync_reader.cc(187)] ASR: No room in socket buffer.: The pipe is being closed. (0xE8)
+[1125/153851.627:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www4.bing.com/search?q=jhbrnekjcd4&form=QBLH&sp=-1&pq=jhbrnekjcd4&sc=0-11&qs=n&sk=&cvid=A3AD60BC351844BDAF6F8C9B63E9A579 (9)
+[1125/153851.810:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153851.812:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1125/153851.814:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1125/153851.814:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1125/153851.815:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1125/153851.815:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1125/153853.762:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/51e9028e-6a35-434a-a403-eb4ecedf6f2c\" skips prefix match because of non-special URL scheme"
+[1125/153853.763:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/303d5732-bca9-4661-b1b8-bb8270be15f9\" skips prefix match because of non-special URL scheme"
+[1125/153853.770:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/153853.779:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/153853.840:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/153854.252:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153855.255:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/51c870ba-bc2d-4772-af47-2e859a91c31b\" skips prefix match because of non-special URL scheme"
+[1125/153855.256:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www4.bing.com/e502ef4d-0914-479b-bce8-304e8e34f75b\" skips prefix match because of non-special URL scheme"
+[1125/153855.261:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/153855.269:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/153855.322:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/153855.598:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/153858.205:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www4.bing.com/?form=DCDN (0)
+[1125/155424.352:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b0feb6e0-4a24-4cde-adc1-f78361ec9822\" skips prefix match because of non-special URL scheme"
+[1125/155424.355:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/8583f611-5088-4c4b-b530-cdfad1f2bb70\" skips prefix match because of non-special URL scheme"
+[1125/155424.364:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/155424.379:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/155424.756:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/155424.929:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/155425.011:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/155425.092:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/155425.183:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/155425.184:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/155425.184:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/155425.184:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/155425.284:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/155425.285:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/155425.285:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/155425.286:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/155427.060:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/173750.066:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/251d964e-ff6a-4124-bc5c-99c4b6c8e5c5\" skips prefix match because of non-special URL scheme"
+[1125/173750.068:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/77f8e0ea-fbb8-4055-89a9-8b1edf00c2cb\" skips prefix match because of non-special URL scheme"
+[1125/173750.074:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/173750.080:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/173750.448:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/173750.681:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/173750.726:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/173750.865:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/173750.945:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/173750.945:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/173750.946:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/173750.946:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/173751.037:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/173751.037:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/173751.038:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/173751.038:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/173752.807:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/173949.125:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1125/174026.214:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=eurasian+red+squirrel&filters=IsConversation%3A%22True%22+btrequestsource%3A%22homepage%22+WQOskey%3A%22HPQuiz_20211125_SquirrelsCairngorms%22+WQId%3A%221%22+WQQI%3A%220%22+WQCI%3A%221%22+UserChoices%3A%221%22+ShowTimesTaskPaneTrigger%3A%22false%22+WQSCORE%3A%221%22&FORM=HPQUIZ (9)
+[1125/174027.714:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/174027.769:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/174028.066:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/174028.066:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/174028.066:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/174028.066:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1125/174104.969:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/ad921ec3-6c8e-4c83-a193-02ee4fc5a1db\" skips prefix match because of non-special URL scheme"
+[1125/174104.972:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0ce73c93-7c1b-40d0-b39e-c2e7367320cc\" skips prefix match because of non-special URL scheme"
+[1125/174104.982:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/174104.997:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/174105.095:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/174105.484:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/174107.868:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?FORM=Z9FD1 (0)
+[1125/180546.949:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b2fdbdf0-3c0e-47c9-a5fb-0230fa7dbc0b\" skips prefix match because of non-special URL scheme"
+[1125/180546.951:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/bb7d3d65-6ae5-441d-9379-2e4b8f132531\" skips prefix match because of non-special URL scheme"
+[1125/180546.956:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/180546.962:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/180547.310:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/180547.493:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180547.530:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/180547.627:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/180547.753:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180547.753:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180547.753:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180547.754:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180547.829:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180547.829:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180547.830:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180547.830:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180549.734:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1125/180648.975:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/1a24b183-4a8d-4db3-ae9d-c32227ba1b88\" skips prefix match because of non-special URL scheme"
+[1125/180648.977:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/bbed8f43-b0ef-4aa8-bcb3-9f4827b925f3\" skips prefix match because of non-special URL scheme"
+[1125/180648.983:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1125/180648.995:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1125/180649.450:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1125/180649.657:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180650.094:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1125/180650.114:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1125/180650.304:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180650.304:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180650.305:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180650.305:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1125/180650.393:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180650.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180650.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180650.394:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1125/180651.828:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/071733.588:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0c5d403e-d90c-460d-b50f-bb943aecb864\" skips prefix match because of non-special URL scheme"
+[1126/071733.591:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/5e5d657e-8a72-429a-8ca3-9243f2cc2250\" skips prefix match because of non-special URL scheme"
+[1126/071733.601:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/071733.616:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/071733.950:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/071734.057:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/071734.085:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/071734.165:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/071734.311:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/071734.312:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/071734.312:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/071734.312:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/071734.385:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/071734.386:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/071734.386:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/071734.386:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/071736.364:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/071738.616:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=nuhyjk (9)
+[1126/071739.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1126/071739.191:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/071739.343:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1126/071739.343:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1126/071739.344:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1126/071739.344:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[1126/071747.464:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/071748.222:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/071748.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/071748.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/071748.223:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/071748.598:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[1126/071749.364:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[1126/071749.364:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[1126/071749.365:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[1126/071749.365:WARNING:browser_info.cc(298)] Returning a speculative frame for 51539607558 [12,6]
+[1126/071749.495:INFO:CONSOLE(26)] "26 Nov 07:17:49.493 - g5-component : nhlScores viewModel - init", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071749.495:INFO:CONSOLE(26)] "26 Nov 07:17:49.494 - g5-component : nhlScores model - init", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071749.496:INFO:CONSOLE(26)] "26 Nov 07:17:49.495 - g5-component : nhlScores model - fetch https://statsapi.web.nhl.com/api/v1/schedule?startDate=2021-11-24&endDate=2021-11-29&hydrate=team,linescore,broadcasts(all),tickets,game(content(media(epg)),seriesSummary),radioBroadcasts,metadata,seriesSummary(series)&site=en_nhl&teamId=&gameType=&timecode=", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071750.018:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574855 [13,7]
+[1126/071750.064:INFO:CONSOLE(26)] "26 Nov 07:17:50.064 - g5-component : nhlScores model - stop", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071750.211:INFO:CONSOLE(26)] "26 Nov 07:17:50.210 - g5-component : nhlScores - bind controls", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071750.267:INFO:CONSOLE(26)] "26 Nov 07:17:50.267 - g5-component : nhlScores - scroll to date 2021-11-25", source: https://www-league.nhlstatic.com/nhl.com/builds/site-core/1b0537abbccc0707356f2da3f3f794e06472cbf3_1636047209/scripts/site-all.js.gz (26)
+[1126/071750.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574855 [13,7]
+[1126/071750.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574855 [13,7]
+[1126/071750.290:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574855 [13,7]
+[1126/071750.290:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574855 [13,7]
+[1126/071750.406:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542154 [14,10]
+[1126/071750.754:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574858 [13,10]
+[1126/071750.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574858 [13,10]
+[1126/071750.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574858 [13,10]
+[1126/071750.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 55834574858 [13,10]
+[1126/071750.779:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542154 [14,10]
+[1126/071750.779:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542154 [14,10]
+[1126/071750.780:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542154 [14,10]
+[1126/071750.780:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542154 [14,10]
+[1126/071751.160:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542162 [14,18]
+[1126/071751.160:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542162 [14,18]
+[1126/071751.160:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542162 [14,18]
+[1126/071751.161:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542162 [14,18]
+[1126/071751.696:INFO:CONSOLE(32)] "a: 0.00390625 ms", source: https://static.adsafeprotected.com/sca.17.5.12.js (32)
+[1126/071751.797:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509459 [15,19]
+[1126/071751.827:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542169 [14,25]
+[1126/071751.827:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542169 [14,25]
+[1126/071751.828:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542169 [14,25]
+[1126/071751.828:WARNING:browser_info.cc(298)] Returning a speculative frame for 60129542169 [14,25]
+[1126/071751.850:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509459 [15,19]
+[1126/071751.850:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509459 [15,19]
+[1126/071751.851:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509459 [15,19]
+[1126/071751.851:WARNING:browser_info.cc(298)] Returning a speculative frame for 64424509459 [15,19]
+[1126/071932.303:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1126/072746.902:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411333 [18,5]
+[1126/072747.057:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378630 [19,6]
+[1126/072747.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411333 [18,5]
+[1126/072747.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411333 [18,5]
+[1126/072747.463:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411333 [18,5]
+[1126/072747.463:WARNING:browser_info.cc(298)] Returning a speculative frame for 77309411333 [18,5]
+[1126/072747.468:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378630 [19,6]
+[1126/072747.469:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378630 [19,6]
+[1126/072747.469:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378630 [19,6]
+[1126/072747.469:WARNING:browser_info.cc(298)] Returning a speculative frame for 81604378630 [19,6]
+[1126/141323.874:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/69bb9289-1e46-4448-a5a8-b9ebd7c16350\" skips prefix match because of non-special URL scheme"
+[1126/141323.878:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/4873c1be-1ad7-4be5-8ad8-67875be4d5ff\" skips prefix match because of non-special URL scheme"
+[1126/141323.892:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141323.927:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141324.577:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141324.660:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141324.711:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141324.854:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/141324.975:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141324.976:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141324.976:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141324.977:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141325.135:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141325.135:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141325.136:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141325.136:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141326.987:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141357.465:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/67e14c7d-5a40-416c-ad94-86484ab96786\" skips prefix match because of non-special URL scheme"
+[1126/141357.466:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/a20cdf2a-ced1-4a0e-9443-b31cd7cdac79\" skips prefix match because of non-special URL scheme"
+[1126/141357.473:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141357.481:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141357.833:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141357.961:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141358.047:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141358.145:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/141358.271:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141358.272:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141358.272:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141358.272:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141358.358:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141358.358:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141358.359:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141358.359:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141400.204:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141502.296:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/e9da05ec-39d6-4d5a-84fc-5178b035118b\" skips prefix match because of non-special URL scheme"
+[1126/141502.297:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/6573a147-d4be-424b-9390-8beb58a4c3f4\" skips prefix match because of non-special URL scheme"
+[1126/141502.303:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141502.310:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141502.388:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141502.558:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141505.248:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141556.271:ERROR:gpu_init.cc(453)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1126/141613.808:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=gfn%20bvhyh (9)
+[1126/141614.560:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/141614.605:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141614.742:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/141614.742:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/141614.742:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/141614.743:WARNING:browser_info.cc(298)] Returning a speculative frame for 47244640261 [11,5]
+[1126/141623.142:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/b46c3940-0e11-4340-92cd-c62348d39916\" skips prefix match because of non-special URL scheme"
+[1126/141623.143:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/adcff1ac-57af-46f9-b46e-36dc21f981dc\" skips prefix match because of non-special URL scheme"
+[1126/141623.148:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141623.155:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141623.512:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141623.639:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141623.678:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141623.787:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/141624.040:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141624.040:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141624.041:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141624.041:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141624.217:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141624.218:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141624.218:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141624.218:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141625.875:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141630.222:INFO:CONSOLE(9)] "Uncaught ReferenceError: define is not defined", source: https://www.bing.com/search?q=ghxrujyrfhgidktucg (9)
+[1126/141630.575:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141630.575:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1126/141630.778:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1126/141630.778:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1126/141630.778:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1126/141630.779:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[1126/141716.895:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/a17a32ae-0cd0-4c1e-b653-9977d2185913\" skips prefix match because of non-special URL scheme"
+[1126/141716.896:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/82c456e7-0d0c-4429-b6d9-c337bd9f5d56\" skips prefix match because of non-special URL scheme"
+[1126/141716.900:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141716.906:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141717.236:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141717.337:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141717.378:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141717.474:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771078 [7,6]
+[1126/141717.609:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141717.610:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141717.610:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141717.611:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[1126/141717.716:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141717.716:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141717.717:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141717.717:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869192 [4,8]
+[1126/141718.708:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/2872ee9e-cbf2-493b-9d53-b28e3c477ec7\" skips prefix match because of non-special URL scheme"
+[1126/141718.709:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/0d5bb2f3-55cb-438d-8d7b-c2041009fb39\" skips prefix match because of non-special URL scheme"
+[1126/141718.714:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141718.720:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141718.812:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141719.039:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)
+[1126/141719.474:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141721.637:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1126/141725.336:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/38909cb4-096f-4e17-997f-feb3dc9536c3\" skips prefix match because of non-special URL scheme"
+[1126/141725.337:INFO:modulator_impl_base.cc(135)] "Import Map: \"blob:https://www.bing.com/e0aa15dc-abf0-486f-a452-db08b20d32b0\" skips prefix match because of non-special URL scheme"
+[1126/141725.341:INFO:modulator_impl_base.cc(135)] "Import Map: \"data:text/json,{}\" skips prefix match because of non-special URL scheme"
+[1126/141725.346:INFO:modulator_impl_base.cc(135)] "Import Map: \"x\" matches with \"x\" and is mapped to data:text/javascript,"
+[1126/141725.377:INFO:modulator_impl_base.cc(135)] "Import Map: \"https://assets.msn.com/bundles/v1/bingHomepage/latest/widget-initializer.js\" matches with no entries and thus is not mapped."
+[1126/141725.619:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://r.bing.com/rp/NlBESWMQs1lNi0lqIqVRG5-LWVQ.br.js (2)

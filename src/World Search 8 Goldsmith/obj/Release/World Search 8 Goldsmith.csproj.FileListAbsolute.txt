@@ -1,0 +1,10 @@
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World Search 8 Goldsmith.csproj.AssemblyReference.cache
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World Search 8 Goldsmith.csproj.SuggestedBindingRedirects.cache
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World Search 8 Goldsmith.exe.config
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World_Search_8_Goldsmith.frmBrowser.resources
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World_Search_8_Goldsmith.frmNotepad.resources
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World_Search_8_Goldsmith.frmSettings.resources
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World_Search_8_Goldsmith.Properties.Resources.resources
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World_Search_8_Goldsmith.Test.resources
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World Search 8 Goldsmith.csproj.GenerateResource.cache
+C:\Users\JSGro\OneDrive\Desktop\Coding Projects\C#\WinForms\Project Goldsmith\Main\Project Goldsmith\World Search 8 Goldsmith\obj\Release\World Search 8 Goldsmith.exe.licenses

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="World_Search_8_Goldsmith.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Search" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/search?q=</Value>
+    </Setting>
+    <Setting Name="Homepage" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com</Value>
+    </Setting>
+    <Setting Name="SelectedSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bing</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
